@@ -43,3 +43,8 @@ typing_extensions==4.15.0
 uritemplate==4.2.0
 urllib3==2.6.3
 websockets==15.0.1
+python-decouple==3.8
+gunicorn==25.0.1
+
+gunicorn==25.0.1
+gunicorn==25.0.1
